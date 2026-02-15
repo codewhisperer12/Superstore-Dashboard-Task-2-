@@ -2,6 +2,7 @@
 Created a Superstore Dashboard to get insights from the data using KPIs and visualization.
 
 ---Example Summary Slide (Storyboard)---
+
 **Slide 1 – Executive Summary**
 
 Total Sales: 1.6M
